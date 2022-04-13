@@ -1,0 +1,25 @@
+header{
+    background-color: seagreen;
+    height: 250px;
+    font-size: 155px;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-weight: 101;
+    font-family: monospace;
+}
+
+nav{
+    background-color: mintcream;
+    height: 80px;
+}
+
+.nav_links{
+    text-decoration: none;
+    color: midnightblue;
+    margin: 200px;
+    font-size: large;
+    font-family: monospace;
+}
