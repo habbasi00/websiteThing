@@ -1,2 +1,2 @@
 # websiteThing
-Classwork 13 - part one of website
+Classwork 13 - Learning how to make a website
